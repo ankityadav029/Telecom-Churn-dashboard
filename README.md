@@ -1,30 +1,72 @@
-# Customer Churn Analysis Dashboard (Power BI)
+📊 Customer Churn Analysis Dashboard
 
-## Project Overview
-This project focuses on analyzing customer churn using an interactive dashboard built in Power BI.  
-The dashboard helps in understanding customer behavior, revenue contribution, service usage, and factors affecting churn.  
-It allows businesses to monitor key metrics and identify patterns that impact customer retention.
+This Power BI project presents an interactive Customer Churn Analysis Dashboard designed to explore customer behavior, revenue patterns, and churn trends.
+The dashboard helps identify factors influencing customer retention and supports data-driven decision making.
 
-## Key Insights
-- Overview of Total Customers, Total Revenue, Monthly Charges, and Support Tickets
-- Customer distribution based on Contract Type
-- Analysis of Internet Services (Fiber Optic, DSL, No Service)
-- Breakdown of Payment Methods used by customers
-- Customer Churn Analysis (Yes vs No)
-- Trend of Average Monthly Charges by Tenure
+---
 
-## Dashboard Features
-- Interactive and easy-to-understand visualizations
-- KPI cards for quick business insights
-- Donut charts for service and payment analysis
-- Bar chart for contract comparison
-- Line chart showing monthly charge trends
+🎯 Project Objective
 
-## Tools & Technologies
+To analyze customer data and uncover insights related to churn and business performance, including:
+
+- Total customers and revenue overview
+- Monthly charges analysis
+- Contract type distribution
+- Internet service usage
+- Payment method trends
+- Customer churn comparison
+- Tenure vs monthly charges relationship
+
+---
+
+🧹 Data Preparation
+
+The dataset was prepared and structured before visualization:
+
+- Cleaned and validated customer records
+- Handled missing and inconsistent values
+- Standardized data formats
+- Organized fields for Power BI analysis
+
+---
+
+📈 Key Dashboard Features
+
+KPI Cards
+
+- Total Customers
+- Total Revenue
+- Monthly Charges
+- Support Tickets
+
+Customer Insights
+
+- Contract Type comparison
+- Internet Service distribution
+- Payment Method analysis
+
+Churn Analysis
+
+- Churn vs Non-Churn breakdown
+- Customer behavior patterns
+
+Trend Analysis
+
+- Average Monthly Charges by Tenure
+
+---
+
+🛠 Tools Used
+
 - Power BI
 - Data Visualization
-- Data Cleaning
 - Data Analysis
 
-## Purpose of the Project
-The objective of this project is to transform raw customer data into meaningful insights that help organizations reduce churn and improve customer retention strategies.
+---
+
+💡 Insights
+
+- Month-to-month contracts show higher churn risk
+- Fiber optic users generate higher revenue
+- Certain payment methods are more common among churned customers
+- Longer tenure customers tend to have more stable subscriptions
