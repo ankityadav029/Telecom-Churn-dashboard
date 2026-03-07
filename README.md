@@ -16,8 +16,10 @@ To analyze customer data and uncover insights related to churn and business perf
 - Payment method trends
 - Customer churn comparison
 - Tenure vs monthly charges relationship
+- 
+📊 Dashboard Preview
+<img width="1167" height="640" alt="Telecom Customer Churn Dashboard" src="https://github.com/user-attachments/assets/cc752f6a-e955-4c36-86b6-08a5cb8945b4" />
 
----
 
 🧹 Data Preparation
 
