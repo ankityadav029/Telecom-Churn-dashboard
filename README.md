@@ -1,11 +1,11 @@
-📊 Customer Churn Analysis Dashboard
+ Customer Churn Analysis Dashboard
 
 This Power BI project presents an interactive Customer Churn Analysis Dashboard designed to explore customer behavior, revenue patterns, and churn trends.
 The dashboard helps identify factors influencing customer retention and supports data-driven decision making.
 
 ---
 
-🎯 Project Objective
+ Project Objective
 
 To analyze customer data and uncover insights related to churn and business performance, including:
 
@@ -17,11 +17,11 @@ To analyze customer data and uncover insights related to churn and business perf
 - Customer churn comparison
 - Tenure vs monthly charges relationship
 - 
-📊 Dashboard Preview
+ Dashboard Preview
 <img width="1167" height="640" alt="Telecom Customer Churn Dashboard" src="https://github.com/user-attachments/assets/cc752f6a-e955-4c36-86b6-08a5cb8945b4" />
 
 
-🧹 Data Preparation
+ Data Preparation
 
 The dataset was prepared and structured before visualization:
 
@@ -32,7 +32,7 @@ The dataset was prepared and structured before visualization:
 
 ---
 
-📈 Key Dashboard Features
+ Key Dashboard Features
 
 KPI Cards
 
@@ -58,7 +58,7 @@ Trend Analysis
 
 ---
 
-🛠 Tools Used
+ Tools Used
 
 - Power BI
 - Data Visualization
@@ -66,7 +66,7 @@ Trend Analysis
 
 ---
 
-💡 Insights
+ Insights
 
 - Month-to-month contracts show higher churn risk
 - Fiber optic users generate higher revenue
